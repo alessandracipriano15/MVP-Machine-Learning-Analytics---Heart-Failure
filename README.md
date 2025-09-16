@@ -1,1 +1,3 @@
-# MVP-Machine-Learning-Analytics---Heart-Failure
+# MVP Machine Learning & Analytics - Predição de Insuficiência Cardíaca  
+
+Este projeto, desenvolvido como parte da Pós-Graduação em Ciência de Dados e Analytics, aplica técnicas de Machine Learning para prever a variável DEATH_EVENT (0 = sobrevivente, 1 = óbito) em pacientes com insuficiência cardíaca, utilizando registros clínicos tabulares (variáveis demográficas, laboratoriais e clínicas). O objetivo é comparar modelos de classificação binária e gerar insights que apoiem a equipe clínica na triagem de pacientes, a gestão hospitalar na alocação de recursos e os pacientes em estratégias preventivas.  
